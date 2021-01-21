@@ -26,7 +26,7 @@ I was working as a Technology Lead for Taylor & Francis, Global Head Of DevOps f
 
 ## Blog
 
-- Read more about my <a href="https://www.vishnu-tech.com/blog/">tech blogs</a> 💼
+- Read more about my <a href="https://www.vishnu-tech.com/blog/">tech blog</a> 💼
 
 ## Stats
 
