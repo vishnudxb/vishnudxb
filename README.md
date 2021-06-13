@@ -28,8 +28,3 @@ I was working as a Technology Lead for Taylor & Francis. I have around 10+ years
 
 - Read more about my <a href="https://www.vishnu-tech.com/blog/">tech blog</a> 💼
 
-## Stats
-
-<a href="https://www.vishnu-tech.com">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vishnudxb&show_icons=true" />
-</a>
