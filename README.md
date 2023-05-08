@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/vishnudxb/vishnudxb/master/work1.png" alt="banner that says Vishnu Nair - DevOps Engineer, Data Engineer and Security Engineer">
 
-I was working as a Technology Lead for Taylor & Francis. I have around 10+ years of experience in DevOps & Data Engineering.
+I am working as a DevOps Consultant. I have around 12+ years of experience in DevOps & Data Engineering.
 
 ## Contacts
 
