@@ -23,8 +23,3 @@ I am working as a DevOps Consultant. I have around 12+ years of experience in De
 [![](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?style=flat-square&logoColor=white&logo=google-cloud)](https://github.com/vishnudxb)
 [![](https://img.shields.io/badge/azure%20-%230072C6.svg?style=flat-square&logoColor=white&logo=azure-devops)](https://github.com/vishnudxb)
 [![](https://img.shields.io/badge/heroku%20-%23430098.svg?style=flat-square&logoColor=white&logo=heroku)](https://github.com/vishnudxb)
-
-## Blog
-
-- Read more about my <a href="https://www.vishnu-tech.com/blog/">tech blog</a> 💼
-
